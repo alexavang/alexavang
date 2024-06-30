@@ -2,7 +2,6 @@
 
 
 ![](https://komarev.com/ghpvc/?username=alexavang&base=4000&color=534796&abbreviated=true)
-https://img.shields.io/badge/just%20the%20message-8A2BE2
 <!--
 **alexavang/alexavang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
