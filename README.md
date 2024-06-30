@@ -3,7 +3,7 @@
 
  <div align="center">
         <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/<alexavang>"/>  
+            src="https://widgetbite.com/stats/alexavang"/>  
 </div>
 <!--
 **alexavang/alexavang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
