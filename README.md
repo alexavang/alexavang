@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-alexavang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexavang/)](https://www.linkedin.com/in/alexavang/)
 [![Gmail Badge](https://img.shields.io/badge/-VangAlexa25@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:VangAlexa25@gmail.com)](mailto:VangAlexa25@gmail.com)
 
-## 💻 Technology
+### 💻 Technology
 ---
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
