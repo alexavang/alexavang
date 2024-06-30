@@ -3,8 +3,8 @@
 ---
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Full-Stack D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
-- 👨‍🍳 Michelin Star Chef (Home Cook)
 - 🍔 Foodie
+- 👨‍🍳 Michelin Star Chef (Home Cook)
 - 💪 Fitness Enthusiast
 - 🎮 Gamer
 - 🎹 Pianist
