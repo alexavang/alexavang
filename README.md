@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-alexavang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexavang/)](https://www.linkedin.com/in/alexavang/)
 [![Gmail Badge](https://img.shields.io/badge/-VangAlexa25@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:VangAlexa25@gmail.com)](mailto:VangAlexa25@gmail.com)
 
-### 💻 Technology
+
 ---
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -24,7 +24,9 @@
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=alexavang&count_private=true&show_icons=true&include_all_commits=true)
+<a href="https://github.com/alexavang/alexavang">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexavang&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Alex's GitHub Stats" />
+</a>
 
 
 <!--
