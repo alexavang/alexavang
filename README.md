@@ -2,7 +2,8 @@
 
 
 ![](https://komarev.com/ghpvc/?username=alexavang&base=4000&color=534796&abbreviated=true)
-![LinkedIn](https://img.shields.io/badge/linkedin)
+[![Static Badge](https://img.shields.io/badge/:badgeContent)](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=Linkedin&logoColor=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falexavang%2F
+)
 <!--
 **alexavang/alexavang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
