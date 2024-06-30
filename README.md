@@ -1,10 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1200&color=F7F7F7&background=FFCFC000&center=true&vCenter=true&random=false&width=850&lines=Hello%2C+World!;%EC%95%88%EB%85%95%2C+%EC%84%B8%EC%83%81!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%B8%96%E7%95%8C%EF%BC%81;Ol%C3%A1+Mundo!;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%BC%D0%B8%D1%80!;Hej+v%C3%A4rlden!;Bonjour+le+monde!;Hallo+Welt!)](https://git.io/typing-svg)
 
 ---
-![](https://komarev.com/ghpvc/?username=alexavang&base=4000&color=534796&abbreviated=true)
-[![Linkedin Badge](https://img.shields.io/badge/-alexavang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexavang/)](https://www.linkedin.com/in/alexavang/)
-[![Gmail Badge](https://img.shields.io/badge/-VangAlexa25@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:VangAlexa25@gmail.com)](mailto:VangAlexa25@gmail.com)
-
+## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🖥 Full-Stack D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+- 👨‍🍳 Michelin Star Chef (Home Cook)
+- 🍔 Foodie
+- 💪 Fitness Enthusiast
+- 🎮 Gamer
+- 🎹 Pianist
 
 ---
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -31,6 +34,14 @@
 <a href="https://github.com/alexavang/alexavang">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexavang&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Alex's GitHub Stats" />
 </a>
+
+---
+## 🦝 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
+
+![](https://komarev.com/ghpvc/?username=alexavang&base=4000&color=534796&abbreviated=true)
+[![Gmail Badge](https://img.shields.io/badge/-VangAlexa25@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:VangAlexa25@gmail.com)](mailto:VangAlexa25@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-alexavang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexavang/)](https://www.linkedin.com/in/alexavang/)
 
 
 <!--
