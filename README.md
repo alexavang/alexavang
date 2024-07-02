@@ -42,6 +42,8 @@
 ![](https://komarev.com/ghpvc/?username=alexavang&base=4000&color=534796&abbreviated=true)
 [![Gmail Badge](https://img.shields.io/badge/-VangAlexa25@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:VangAlexa25@gmail.com)](mailto:VangAlexa25@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-alexavang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexavang/)](https://www.linkedin.com/in/alexavang/)
+[![Instagram Badge](https://img.shields.io/badge/-alexavang-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=[https://www.linkedin.com/in/alexavang/](https://www.instagram.com/_alexvang/?next=%2Faccounts%2Fsignup%2F))]([https://www.linkedin.com/in/alexavang/](https://www.instagram.com/_alexvang/?next=%2Faccounts%2Fsignup%2F))
+
 
 
 <!--
