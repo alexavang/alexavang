@@ -2,7 +2,7 @@
 
 ---
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Full-Stack D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+- 🖥 Full-Stack Developer
 - 🍔 Foodie
 - 👨‍🍳 Michelin Star Chef (Home Cook)
 - 💪 Fitness Enthusiast
