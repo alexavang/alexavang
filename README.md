@@ -15,8 +15,10 @@
 ![Nodejs](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=Express)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Ruby](https://img.shields.io/badge/-Ruby-FF0000?style=flat-square&logo=ruby)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![MUI](https://img.shields.io/badge/-MUI-black?style=flat-square&logo=MUI)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -24,6 +26,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![GIMP](https://img.shields.io/badge/-GIMP-black?style=flat-square&logo=gimp)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
