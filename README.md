@@ -10,6 +10,7 @@
 - 🎹 Pianist
 
 ---
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c%23)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
