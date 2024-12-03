@@ -6,8 +6,9 @@
 - 🍔 Foodie
 - 👨‍🍳 Michelin Star Chef (Home Cook)
 - 💪 Fitness Enthusiast
-- 🎮 Gamer
 - 🎹 Pianist
+- 🎮 Gamer
+
 
 ---
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c%23)
